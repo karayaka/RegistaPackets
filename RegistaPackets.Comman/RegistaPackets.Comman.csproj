@@ -4,6 +4,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Description>regista paketleri test</Description>
+    <PackageProjectUrl>https://github.com/karayaka/RegistaPackets</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/karayaka/RegistaPackets</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
